@@ -272,6 +272,7 @@
     color: var(--white);
     font-size: 3rem;
     left: 25px;
+    text-shadow: 1px 2px 6px black !important;
 }
 .team__img{
     width: 100%;
@@ -361,6 +362,7 @@
     margin-bottom: 2rem;
     font-size: clamp(1rem, 2.5vw, 1.5rem);
     padding: 0 1rem;
+    text-shadow: 1px 2px 6px black;
 }
 form{
     z-index: 10;
